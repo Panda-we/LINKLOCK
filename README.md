@@ -3,7 +3,7 @@
 **LinkLock** is a modern, user-friendly web application that helps users identify potentially malicious websites and phishing attempts in real time.  
 Built with **React** and **TypeScript**, it leverages **Google’s Safe Browsing API** to provide instant threat detection and comprehensive security reports.
 
-🌐 **Live Demo:** [linklock.vercel.app](https://linklock.vercel.app)  
+ 
 📜 **License:** MIT License  
 
 ---
@@ -46,12 +46,5 @@ Built with **React** and **TypeScript**, it leverages **Google’s Safe Browsing
 
 ---
 
-## ⚙️ Installation & Setup
-
-### Prerequisites
-Ensure you have:
-- Node.js (v18 or higher)
-- npm or yarn
-- A Google Safe Browsing API key
 
 
